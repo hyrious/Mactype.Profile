@@ -17,7 +17,6 @@ Having Retina screen, I suggest you use 200%/300%/etc on the newest (1703) Win10
 
 1. Install Fonts.
     - [XHei OSX](https://pan.baidu.com/s/1ntqNBrb)
-    - [Inziu IosevkaCC SC](https://be5invis.github.io/Iosevka/inziu.html)
 2. Install [Mactype](http://www.mactype.net/).
 3. Download [the latest release](https://github.com/hyrious/Mactype.Profile.Mac/releases/latest), extract it to Mactype's ini folder.  
    e.g. `C:\Program Files\MacType\ini`
