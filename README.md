@@ -11,12 +11,12 @@ If you meet crashes, try run with **HotShift & AsAdmin**.
 
 Mactype seems not to work well on Windows 10 Version 1703, even with the newest CTP build.  
 Use 1607 instead and wait for any side's solution.  
-Having Retina screen, I suggest you use 200%/300%/etc on the newest (1703) Win10 without Mactype, which seems a bit better than before.
+Having Retina screen, I suggest you use 200%/300%/etc on the newest (1703) Win10 without
+Mactype, which seems a bit better than before.
 
 ## Install
 
-1. Install Fonts.
-    - [XHei OSX](https://pan.baidu.com/s/1ntqNBrb)
+1. Install Fonts: [XHei OSX](https://pan.baidu.com/s/1ntqNBrb)
 2. Install [Mactype](http://www.mactype.net/).
 3. Download [the latest release](https://github.com/hyrious/Mactype.Profile.Mac/releases/latest), extract it to Mactype's ini folder.  
    e.g. `C:\Program Files\MacType\ini`
@@ -34,9 +34,15 @@ Inspired by 3 profiles:
 Applications that friendly to Mactype.
 - [CentBrowser](https://www.centbrowser.com/): Turn off **DirectWrite** at **chrome://flags**.
 
-## Still, there are many apps not fully supporting Mactype
+## Workaround
 
-osu!, VirtualBox, PaintToolSAI, etc.
+osu!, VirtualBox, PaintToolSAI(ver 1) and a lot of apps may not work well with Mactype.
 
 The suggestion is make Mactype turn blind to these specific apps:  
 put them into section **[UnloadDll]** or **[ExcludeSub]**.
+
+## License
+
+WTFPLv2.
+
+Notice: **Fonts are under their own license.**
