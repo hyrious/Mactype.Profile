@@ -9,11 +9,6 @@ For the best visual effect, please make sure the scale of your PC is 100% or 200
 
 If you meet crashes, try run with **HotShift & AsAdmin**.
 
-Mactype seems not to work well on Windows 10 Version 1703, even with the newest CTP build.  
-Use 1607 instead and wait for any side's solution.  
-Having Retina screen, I suggest you use 200%/300%/etc on the newest (1703) Win10 without
-Mactype, which seems a bit better than before.
-
 ## Install
 
 1. Install Fonts: XHei OSX [BaiduPan](https://pan.baidu.com/s/1ge6WEPl)|[GoogleDrive](https://drive.google.com/open?id=0By0qP7O6AIsHSTMwUi1iUjY4dkk)
