@@ -1,6 +1,6 @@
 # Mactype.Profile.Mac
 
-Mactype's profile for self use.  
+[Mactype](https://github.com/snowie2000/mactype)'s profile for self use.  
 Trying to find the best solution that similar to Mac.
 
 ### Notes
