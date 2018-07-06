@@ -35,4 +35,4 @@ Applications that friendly to Mactype.
 
 WTFPLv2.
 
-Notice: **Fonts ([XHei family](https://pan.baidu.com/s/1ntqNBrb)) are under their own license.**
+Notice: Fonts (~[Iof XHei family](https://pan.baidu.com/s/1ntqNBrb)~ <small>can't touch now due to Baidu</small>) are under their own license.
